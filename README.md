@@ -111,8 +111,11 @@ Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
 
 - 14. **W Liu, J Chen, C Li, C Qian, X Chu, X Hu**, "A cascaded inception of inception network with attention modulated feature fusion for human pose estimation", *Proceedings of the AAAI Conference on Artificial Intelligence*, 2018 (cited by 45).
 
+---
 
 ### Face Alignment
+
+公司早期的时候，做了大量的工作来完善Face Alignment（因为人脸识别有Joint Bayesian后来又有deepId，反而是alignment比较缺稳定的版本）。当时朱施展是公司的intern。
 
 - **S Zhu, C Li, C Change Loy, X Tang**, "Face alignment by coarse-to-fine shape searching", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2015 (cited by 651).
 
@@ -122,6 +125,8 @@ Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
 
 
 ### Face Recognition
+
+如何在侧脸情况下提升识别的准确率
 
 - **K Cao, Y Rong, C Li, X Tang, CC Loy**, "Pose-robust face recognition via deep residual equivariant mapping", *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018 (cited by 174).
 
@@ -177,19 +182,3 @@ Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
 ## Links
 - [Google Scholar](https://scholar.google.com.hk/citations?user=F5rVlz0AAAAJ)
 - [arXiv](http://arxiv.org/abs/arxiv)
-
-
-<!--
-**LC1332/LC1332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
