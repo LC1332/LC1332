@@ -140,6 +140,22 @@ Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
     - Face Verification (Joint Bayesian, Transfer Learning, DeepID2+)
     - Image Enhancement (dehaze, super-resolution, etc.) -->
 
+- **After 2023 （Hackthon项目）**
+  - 2023年从阿里魔搭黑客松开始，参加多次语言模型以及SD模型等新AI应用探索黑客松并获奖。
+  - 阿里魔搭黑客松二等奖（李鲁鲁为队长）(top3)
+  - 百川黑客松二等奖(LLM驱动游戏范式探索，李鲁鲁为队长，米唯实为队员)(top3)
+  - 百度 AGI Foundation最佳人气奖(LLM驱动游戏范式探索二——游戏人物角色对话内容生成，李鲁鲁为队长，米唯实为队员)
+  - 科大讯飞“星火杯”大学生创业营，一等奖 (社交个人数字化身， 米唯实为队长，李鲁鲁为顾问)(top2)
+  - 第二届AI故事大赛 三等奖(LLM驱动文 字内容生成探索——人工引导下的剧情生成展示，李鲁鲁)(top6)
+  - Facechain应用大赛(跨模态可控人脸视频生成) 
+    - 李鲁鲁为队长的队伍在赛道五为一等奖(top1)，米唯实为队员
+    - 陈泽康代报名的队伍在赛道三位二等奖(top2), 李鲁鲁为队长，米唯实为队员
+
+- **SenseTime**
+  - 手机业务线，人脸相册，相册优选。
+  - 数据基础，标注方案改进
+  - 教育业务线，硬件/软件/教材/课程服务
+
 - **Student Intern (Spring 2013 & Summer 2012)**
   - Carnegie Mellon University, Robotic Institute, advised by Kris Kitani & Martial Hebert
   - **Projects:**
