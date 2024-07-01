@@ -190,11 +190,6 @@ Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
 - **11/07 & 11/08** National Olympiad in Informatics in Provinces, First Prize in Shanghai (top 30)
 - **11/08** The 8th Awarding Program For Future Scientists, First Prize (4th Place), (The largest pre-college scientific research event in China)
 
-## Skills
-- **Coding:** Skilled in C/C++, MATLAB (including mex compiler and GUI), OpenCV
-- **Mathematics:** Computer Vision, Machine Learning, Statistical Inference, Probabilistic Robotics, Basic Graphic, Convex Optimization
-- **Deep Learning:** Caffe, Keras (Theano Based), Fundamentals of Deep Learning
-
 ## Links
 - [Google Scholar](https://scholar.google.com.hk/citations?user=F5rVlz0AAAAJ)
 - [arXiv](http://arxiv.org/abs/arxiv)
