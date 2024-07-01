@@ -10,6 +10,8 @@
 Li Cheng, Co-founder and Principal Researcher, graduated with a Bachelor's degree from the 数理基础科学(Physics) at Tsinghua University. During his undergraduate studies, he published his first two papers in CVPR and ICCV, and his related projects won the 全国挑战杯特奖(National Challenge Cup Special Prize). He participated with the Automation Department team in the RoboCup Soccer Adult League, where they won second place. After graduating in 2013, he joined SenseTime Technology as a co-founder, and the company went public on the Hong Kong Stock Exchange in 2021. During his tenure, he published over ten papers at conferences such as CVPR, ICCV, AAAI, and ECCV, with a total citation count exceeding 6,500. His related products, such as facial recognition albums, served several mobile phone clients, including OPPO and Vivo. His primary research areas include facial recognition, facial generation, and human-computer interaction. He is the initiator of the open-source project ChatHaruhi. Since participating in the 阿里魔搭黑客松(Modelscope Hackathon) in 2023, he has joined and won multiple hackathons exploring new AI applications, such as language models and SD models.
 </details>
 
+Contact: chengli.thu_at_gmail.com
+
 ## Recent News (2024)
 
 ### 鲁宝早教机
@@ -58,45 +60,52 @@ ChatHaruhi是个有趣的尝试，这里面的作者除了我和冷子昂以外�
 
 在2016年之前，我们尝试了很多数据标注的不同方法。同时，我们还设计了一种强化学习/Meta-learning的方法，去学习聚类的规则进行人脸聚类。相应的算法改进后应用于很多国内手机的相册应用中。
 
-【配图】
+<img src="images/data_related.jpg" alt="ChatHaruhi" height="300">
 
 Fei Wang, L Chen, **Cheng Li**, S Huang, Y Chen, C Qian, CC Loy, "The devil of face recognition is in the noise", *Proceedings of the European Conference on Computer Vision (ECCV)*, 2018 (cited by 231).
 
 Yue He, Kaidi Cao, **Cheng Li**, C Loy, "Merge or not? learning to group faces via imitation learning", *Proceedings of the AAAI Conference on Artificial Intelligence*, 2018 (cited by 24).
 
-其实我觉得这个聚类的方法潜力还挺大的，如果有人想试可以试一下用更好的图/文特征去做文档的聚类。想做的话也欢迎与我练习。
+其实我觉得这个聚类的方法潜力还挺大的，如果有人想试可以试一下用更好的图/文特征去做文档的聚类。想做的话也欢迎与我联系。
+
+Yunxuan Zhang, Li Liu, **Cheng Li**, C Loy "Quantifying facial age by posterior of age comparisons", *arXiv preprint arXiv:1708.09687*, 2017 (cited by 98).
+
+这篇是我们用多次比较去标年龄的方法，比较标注法在颜值、年龄等很多数据上都有实践。
 
 ### Ego-centric Hand Detection
 
+Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
 
 <img src="images/CVPR2023.jpg" alt="CVPR2023" height="300">
 
-1. **Cheng Li, Kris M. Kitani,** "Pixel-level hand detection in ego-centric videos", *Computer Vision and Pattern Recognition (CVPR)*, IEEE International Conference on, 2013 (cited by 68).
-2. **Cheng Li, Kris M. Kitani,** "Model recommendation with virtual probes for egocentric hand detection", *Computer Vision (ICCV)*, IEEE International Conference on, 2013 (cited by 23).
-3. **Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang,** "Face Alignment by Coarse-to-Fine Shape Searching", *Computer Vision and Pattern Recognition (CVPR)*, IEEE International Conference on, 2015 (cited by 10, Shizhan is my intern at the first-year of company co-advised with Loy).
-4. **Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang,** "Towards Arbitrary-View Face Alignment by Recommendation Trees", arXiv.
-5. **Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang,** "Improved Version of Model Recommendation Based Face Alignment", submitted to CVPR2016, mail me to see the review result.
-6. **Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang,** "Transferring Landmark Annotations for Cross-Dataset Face Alignment", (cited by 5).
+- **Cheng Li**, KM Kitani, "Pixel-level hand detection in ego-centric videos", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2013 (cited by 331).
+
+- **Cheng Li**, KM Kitani**, "Model recommendation with virtual probes for egocentric hand detection", *Proceedings of the IEEE International Conference on Computer Vision (ICCV)*, 2013 (cited by 87).
 
 
-根据你提供的信息，以下是整理后的Cheng Li的出版物列表，以Markdown格式呈现：
+### Face Reenactment
+
+- Yunxuan Zhang, S Zhang, Y He, **Cheng Li**, CC Loy, Z Liu, "One-shot face reenactment", *arXiv preprint arXiv:1908.03251*, 2019 (cited by 57).
+
+
+
 
 ## Publications
 
 1. **F Wang, M Jiang, C Qian, S Yang, C Li, H Zhang, X Wang, X Tang**, "Residual attention network for image classification", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2017 (cited by 4228).
 
 2. **S Zhu, C Li, C Change Loy, X Tang**, "Face alignment by coarse-to-fine shape searching", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2015 (cited by 651).
-3. **C Li, KM Kitani**, "Pixel-level hand detection in ego-centric videos", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2013 (cited by 331).
+3. 
 4. 
 5. **W Wu, Y Zhang, C Li, C Qian, CC Loy**, "Reenactgan: Learning to reenact faces via boundary transfer", *Proceedings of the European conference on computer vision (ECCV)*, 2018 (cited by 223).
 6. **S Zhu, C Li, CC Loy, X Tang**, "Unconstrained face alignment via cascaded compositional learning", *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016 (cited by 208).
 7. **J Wu, K Long, F Wang, C Qian, C Li, Z Lin, H Zha**, "Deep comprehensive correlation mining for image clustering", *Proceedings of the IEEE/CVF international conference on computer vision (ICCV)*, 2019 (cited by 205).
 8. **K Cao, Y Rong, C Li, X Tang, CC Loy**, "Pose-robust face recognition via deep residual equivariant mapping", *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018 (cited by 174).
 9. **W Wu, K Cao, C Li, C Qian, CC Loy**, "Transgaga: Geometry-aware unsupervised image-to-image translation", *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR)*, 2019 (cited by 127).
-10. **Y Zhang, L Liu, C Li**, "Quantifying facial age by posterior of age comparisons", *arXiv preprint arXiv:1708.09687*, 2017 (cited by 98).
-11. **C Li, KM Kitani**, "Model recommendation with virtual probes for egocentric hand detection", *Proceedings of the IEEE International Conference on Computer Vision (ICCV)*, 2013 (cited by 87).
+
+
 12. **Y Rong, Z Liu, C Li, K Cao, CC Loy**, "Delving deep into hybrid annotations for 3d human recovery in the wild", *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2019 (cited by 69).
-13. **Y Zhang, S Zhang, Y He, C Li, CC Loy, Z Liu**, "One-shot face reenactment", *arXiv preprint arXiv:1908.03251*, 2019 (cited by 57).
+
 14. **W Liu, J Chen, C Li, C Qian, X Chu, X Hu**, "A cascaded inception of inception network with attention modulated feature fusion for human pose estimation", *Proceedings of the AAAI Conference on Artificial Intelligence*, 2018 (cited by 45).
 15. **ZW Wang, SC Jiang, GL Yuan, T Wu, C Li, C Qian, C Jin, C Yu, WJ Hua**, "Strain effect on the orientation-dependent harmonic spectrum of monolayer aluminum nitride", *Science China Physics, Mechanics & Astronomy*, 2020 (cited by 40).
 
