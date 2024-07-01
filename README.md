@@ -7,7 +7,7 @@
 
 <details>
   <summary>过往经历</summary>
-过往经历
+Li Cheng, Research and Development Director, graduated with a Bachelor's degree from the 数理基础科学(Physics) at Tsinghua University. During his undergraduate studies, he published his first two papers in CVPR and ICCV, and his related projects won the 全国挑战杯特奖(National Challenge Cup Special Prize). He participated with the Automation Department team in the RoboCup Soccer Adult League, where they won second place. After graduating in 2013, he joined SenseTime Technology as a co-founder, and the company went public on the Hong Kong Stock Exchange in 2021. During his tenure, he published over ten papers at conferences such as CVPR, ICCV, AAAI, and ECCV, with a total citation count exceeding 6,500. His related products, such as facial recognition albums, served several mobile phone clients, including OPPO and Vivo. His primary research areas include facial recognition, facial generation, and human-computer interaction. He is the initiator of the open-source project ChatHaruhi. Since participating in the 阿里魔搭黑客松(Modelscope Hackathon) in 2023, he has joined and won multiple hackathons exploring new AI applications, such as language models and SD models.
 </details>
 
 ## Recent News (2024)
@@ -24,8 +24,11 @@
 
 ### Learning Python with Copilot
 
+感谢于ChatGPT和Copilot的发展，使得我拥有了更活跃的开发能力。所以我正在编写[一门课程](https://github.com/LC1332/Learn-Python-with-GPT)，希望能够教会更多的初学者和中学生与最新的技术一起协同进化。
+
 ### FaceChain Competition
 
+[Meme-Master](https://atomgit.com/chengli-thu/Meme-Master/tree/master/Meme-Master) 项目获得FaceChain挑战赛赛道五一等奖，奖金五万，感谢开放原子能基金会。这个项目主要练手训一下Stable Diffusion和ControlNet。
 
 ### New Version of Zero-Haruhi
 
