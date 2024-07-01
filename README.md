@@ -5,7 +5,20 @@
 
 李鲁鲁是一个计算机视觉的研究者，在2012-2020期间进行了很多计算机视觉的研究以及产品化的实践。随着2022大型语言模型的兴起，以及借助Copilot协同工具，李鲁鲁开始学习新的AI技术并且在大模型应用以及跨模态的模型应用中做着更多的尝试。
 
-## Recent News
+## Recent News (2024)
+
+### 鲁宝早教机
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=1255774167&bvid=BV1VJ4m1u7qZ&cid=1589334343&p=1" height="300" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
+在2024年
+
+### Learning Python with Copilot
+
+### FaceChain Competition
+
+
+### New Version of Zero-Haruhi
 
 ## Education
 - **BS in Physics and Mathematics (2009-2013)**
