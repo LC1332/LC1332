@@ -32,6 +32,8 @@ Li Cheng, Research and Development Director, graduated with a Bachelor's degree 
 
 ### New Version of Zero-Haruhi
 
+我们收集了40万组角色扮演对话数据，来进行角色扮演模型的训练。[Chat-Haruhi-3.0](https://github.com/LC1332/Zero-Haruhi) 如果需要这个数据的话联系我。目前项目有点停滞，如果有空后面想扩展到多模态动画片。
+
 ## Education
 - **BS in Physics and Mathematics (2009-2013)**
   - Tsinghua University, Department of Physics
