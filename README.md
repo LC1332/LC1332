@@ -5,6 +5,11 @@
 
 李鲁鲁是一个计算机视觉的研究者，在2012-2020期间进行了很多计算机视觉的研究以及产品化的实践。随着2022大型语言模型的兴起，以及借助Copilot协同工具，李鲁鲁开始学习新的AI技术并且在大模型应用以及跨模态的模型应用中做着更多的尝试。
 
+<details>
+  <summary>过往经历</summary>
+过往经历
+</details>
+
 ## Recent News (2024)
 
 ### 鲁宝早教机
@@ -13,7 +18,9 @@
 
 [![](images/lubao.jpg)](https://player.bilibili.com/player.html?isOutside=true&aid=1255774167&bvid=BV1VJ4m1u7qZ&cid=1589334343&p=1)
 
-在2024年
+[https://www.bilibili.com/video/BV1VJ4m1u7qZ](https://www.bilibili.com/video/BV1VJ4m1u7qZ)
+
+在2024年，李鲁鲁开始更多关注能够让前沿AI技术进一步落地的领域。早教机是我为鲁宝做的一个原型，但是我也希望这个项目能够发展为一个kickstart的产品，能够让二鲁以及更多孩子真正使用到。
 
 ### Learning Python with Copilot
 
