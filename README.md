@@ -13,7 +13,7 @@
 
 ## Publications
 
-<img src="images/previous_kechuang_course.jpg" alt="Previous Kechuang Course" height="300">
+<img src="images/CVPR2023.jpg" alt="CVPR2023" height="300">
 
 1. **Cheng Li, Kris M. Kitani,** "Pixel-level hand detection in ego-centric videos", *Computer Vision and Pattern Recognition (CVPR)*, IEEE International Conference on, 2013 (cited by 68).
 2. **Cheng Li, Kris M. Kitani,** "Model recommendation with virtual probes for egocentric hand detection", *Computer Vision (ICCV)*, IEEE International Conference on, 2013 (cited by 23).
