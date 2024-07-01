@@ -117,13 +117,14 @@ Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
 希望这有帮助！如果你有任何问题，请告诉我。
 
 ## Experience
-- **Co-founder, Lead Researcher (2013-present)**
+
+<!-- - **Co-founder, Lead Researcher (2013-present)**
   - SenseTime (SenseTime is a start-up company providing vision solutions to companies in China, Platinum Sponsor in CVPR 2015, ICCV 2015)
   - **Projects:**
     - Face Detection (Frontal, MultiView, Cascade CNN Detector)
     - Face Alignment (Cascade Regression, SDM, CNN)
     - Face Verification (Joint Bayesian, Transfer Learning, DeepID2+)
-    - Image Enhancement (dehaze, super-resolution, etc.)
+    - Image Enhancement (dehaze, super-resolution, etc.) -->
 
 - **Student Intern (Spring 2013 & Summer 2012)**
   - Carnegie Mellon University, Robotic Institute, advised by Kris Kitani & Martial Hebert
