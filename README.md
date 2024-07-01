@@ -46,17 +46,25 @@ Li Cheng, Co-founder and Principal Researcher, graduated with a Bachelor's degre
 
 ### ChatHaruhi
 
-<img src="images/ChatHaruhi.jpg" alt="ChatHaruhi" height="300">
-
 ChatHaruhi是个有趣的尝试，这里面的作者除了我和冷子昂以外都是社区招募的。是一个完全开源的工作。在ChatHaruhi里面我们使用了小说等源头抽取的角色数据进行了模型的角色扮演。并且在后面一个测试中，我们还测试了各个角色的MBTI的准确率。MBTI测试的文章由鑫涛整理，论文被ACL 2024接收。
+
+<img src="images/ChatHaruhi.jpg" alt="ChatHaruhi" height="300">
 
 - **Cheng Li**, Ziang Leng, Chenxi Yan, etal. "Chatharuhi: Reviving anime character in reality via large language model", *arXiv preprint arXiv:2308.09597*, 2023 (cited by 25).
 
-- **X Wang, Y Fei, Z Leng, C Li**, "Does role-playing chatbots capture the character personalities? assessing personality traits for role-playing chatbots", *arXiv preprint arXiv:2310.17976*, 2023 (cited by 20).
+- Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, **Cheng Li**, Yanghua Xiao, "Does role-playing chatbots capture the character personalities? assessing personality traits for role-playing chatbots", *arXiv preprint arXiv:2310.17976*, 2023 (cited by 20).
 
-### Face Grouping and Face Data clean
+### Face Grouping and Face Data Clean
 
+在2016年之前，我们尝试了很多数据标注的不同方法。同时，我们还设计了一种强化学习/Meta-learning的方法，去学习聚类的规则进行人脸聚类。相应的算法改进后应用于很多国内手机的相册应用中。
 
+【配图】
+
+Fei Wang, L Chen, **Cheng Li**, S Huang, Y Chen, C Qian, CC Loy, "The devil of face recognition is in the noise", *Proceedings of the European Conference on Computer Vision (ECCV)*, 2018 (cited by 231).
+
+Yue He, Kaidi Cao, **Cheng Li**, C Loy, "Merge or not? learning to group faces via imitation learning", *Proceedings of the AAAI Conference on Artificial Intelligence*, 2018 (cited by 24).
+
+### Ego-centric Hand Detection
 
 
 <img src="images/CVPR2023.jpg" alt="CVPR2023" height="300">
@@ -77,7 +85,7 @@ ChatHaruhi是个有趣的尝试，这里面的作者除了我和冷子昂以外�
 
 2. **S Zhu, C Li, C Change Loy, X Tang**, "Face alignment by coarse-to-fine shape searching", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2015 (cited by 651).
 3. **C Li, KM Kitani**, "Pixel-level hand detection in ego-centric videos", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2013 (cited by 331).
-4. **F Wang, L Chen, C Li, S Huang, Y Chen, C Qian, CC Loy**, "The devil of face recognition is in the noise", *Proceedings of the European Conference on Computer Vision (ECCV)*, 2018 (cited by 231).
+4. 
 5. **W Wu, Y Zhang, C Li, C Qian, CC Loy**, "Reenactgan: Learning to reenact faces via boundary transfer", *Proceedings of the European conference on computer vision (ECCV)*, 2018 (cited by 223).
 6. **S Zhu, C Li, CC Loy, X Tang**, "Unconstrained face alignment via cascaded compositional learning", *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016 (cited by 208).
 7. **J Wu, K Long, F Wang, C Qian, C Li, Z Lin, H Zha**, "Deep comprehensive correlation mining for image clustering", *Proceedings of the IEEE/CVF international conference on computer vision (ICCV)*, 2019 (cited by 205).
@@ -90,7 +98,7 @@ ChatHaruhi是个有趣的尝试，这里面的作者除了我和冷子昂以外�
 14. **W Liu, J Chen, C Li, C Qian, X Chu, X Hu**, "A cascaded inception of inception network with attention modulated feature fusion for human pose estimation", *Proceedings of the AAAI Conference on Artificial Intelligence*, 2018 (cited by 45).
 15. **ZW Wang, SC Jiang, GL Yuan, T Wu, C Li, C Qian, C Jin, C Yu, WJ Hua**, "Strain effect on the orientation-dependent harmonic spectrum of monolayer aluminum nitride", *Science China Physics, Mechanics & Astronomy*, 2020 (cited by 40).
 
-17. **Y He, K Cao, C Li, C Loy**, "Merge or not? learning to group faces via imitation learning", *Proceedings of the AAAI Conference on Artificial Intelligence*, 2018 (cited by 24).
+
 
 19. **W Wu, K Cao, C Li, C Qian, CC Loy**, "Disentangling content and style via unsupervised geometry distillation", *arXiv preprint arXiv:1905.04538*, 2019 (cited by 18).
 20. **S Zhu, C Li, CC Loy, X Tang**, "Towards arbitrary-view face alignment by recommendation trees", *arXiv preprint arXiv:1511.06627*, 2015 (cited by 10).
