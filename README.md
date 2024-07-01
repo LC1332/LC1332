@@ -64,6 +64,8 @@ Fei Wang, L Chen, **Cheng Li**, S Huang, Y Chen, C Qian, CC Loy, "The devil of f
 
 Yue He, Kaidi Cao, **Cheng Li**, C Loy, "Merge or not? learning to group faces via imitation learning", *Proceedings of the AAAI Conference on Artificial Intelligence*, 2018 (cited by 24).
 
+其实我觉得这个聚类的方法潜力还挺大的，如果有人想试可以试一下用更好的图/文特征去做文档的聚类。想做的话也欢迎与我练习。
+
 ### Ego-centric Hand Detection
 
 
