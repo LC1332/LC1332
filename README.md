@@ -7,7 +7,7 @@
 
 <details>
   <summary>过往经历</summary>
-Li Cheng, Research and Development Director, graduated with a Bachelor's degree from the 数理基础科学(Physics) at Tsinghua University. During his undergraduate studies, he published his first two papers in CVPR and ICCV, and his related projects won the 全国挑战杯特奖(National Challenge Cup Special Prize). He participated with the Automation Department team in the RoboCup Soccer Adult League, where they won second place. After graduating in 2013, he joined SenseTime Technology as a co-founder, and the company went public on the Hong Kong Stock Exchange in 2021. During his tenure, he published over ten papers at conferences such as CVPR, ICCV, AAAI, and ECCV, with a total citation count exceeding 6,500. His related products, such as facial recognition albums, served several mobile phone clients, including OPPO and Vivo. His primary research areas include facial recognition, facial generation, and human-computer interaction. He is the initiator of the open-source project ChatHaruhi. Since participating in the 阿里魔搭黑客松(Modelscope Hackathon) in 2023, he has joined and won multiple hackathons exploring new AI applications, such as language models and SD models.
+Li Cheng, Co-founder and Principal Researcher, graduated with a Bachelor's degree from the 数理基础科学(Physics) at Tsinghua University. During his undergraduate studies, he published his first two papers in CVPR and ICCV, and his related projects won the 全国挑战杯特奖(National Challenge Cup Special Prize). He participated with the Automation Department team in the RoboCup Soccer Adult League, where they won second place. After graduating in 2013, he joined SenseTime Technology as a co-founder, and the company went public on the Hong Kong Stock Exchange in 2021. During his tenure, he published over ten papers at conferences such as CVPR, ICCV, AAAI, and ECCV, with a total citation count exceeding 6,500. His related products, such as facial recognition albums, served several mobile phone clients, including OPPO and Vivo. His primary research areas include facial recognition, facial generation, and human-computer interaction. He is the initiator of the open-source project ChatHaruhi. Since participating in the 阿里魔搭黑客松(Modelscope Hackathon) in 2023, he has joined and won multiple hackathons exploring new AI applications, such as language models and SD models.
 </details>
 
 ## Recent News (2024)
@@ -42,6 +42,23 @@ Li Cheng, Research and Development Director, graduated with a Bachelor's degree 
 
 ## Publications
 
+点击[Scholar](https://scholar.google.com/citations?user=F5rVlz0AAAAJ&hl=en) 查看更多细节
+
+### ChatHaruhi
+
+<img src="images/ChatHaruhi.jpg" alt="ChatHaruhi" height="300">
+
+ChatHaruhi是个有趣的尝试，这里面的作者除了我和冷子昂以外都是社区招募的。是一个完全开源的工作。在ChatHaruhi里面我们使用了小说等源头抽取的角色数据进行了模型的角色扮演。并且在后面一个测试中，我们还测试了各个角色的MBTI的准确率。MBTI测试的文章由鑫涛整理，论文被ACL 2024接收。
+
+- **Cheng Li**, Ziang Leng, Chenxi Yan, etal. "Chatharuhi: Reviving anime character in reality via large language model", *arXiv preprint arXiv:2308.09597*, 2023 (cited by 25).
+
+- **X Wang, Y Fei, Z Leng, C Li**, "Does role-playing chatbots capture the character personalities? assessing personality traits for role-playing chatbots", *arXiv preprint arXiv:2310.17976*, 2023 (cited by 20).
+
+### Face Grouping and Face Data clean
+
+
+
+
 <img src="images/CVPR2023.jpg" alt="CVPR2023" height="300">
 
 1. **Cheng Li, Kris M. Kitani,** "Pixel-level hand detection in ego-centric videos", *Computer Vision and Pattern Recognition (CVPR)*, IEEE International Conference on, 2013 (cited by 68).
@@ -50,6 +67,35 @@ Li Cheng, Research and Development Director, graduated with a Bachelor's degree 
 4. **Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang,** "Towards Arbitrary-View Face Alignment by Recommendation Trees", arXiv.
 5. **Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang,** "Improved Version of Model Recommendation Based Face Alignment", submitted to CVPR2016, mail me to see the review result.
 6. **Shizhan Zhu, Cheng Li, Chen Change Loy, Xiaoou Tang,** "Transferring Landmark Annotations for Cross-Dataset Face Alignment", (cited by 5).
+
+
+根据你提供的信息，以下是整理后的Cheng Li的出版物列表，以Markdown格式呈现：
+
+## Publications
+
+1. **F Wang, M Jiang, C Qian, S Yang, C Li, H Zhang, X Wang, X Tang**, "Residual attention network for image classification", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2017 (cited by 4228).
+
+2. **S Zhu, C Li, C Change Loy, X Tang**, "Face alignment by coarse-to-fine shape searching", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2015 (cited by 651).
+3. **C Li, KM Kitani**, "Pixel-level hand detection in ego-centric videos", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2013 (cited by 331).
+4. **F Wang, L Chen, C Li, S Huang, Y Chen, C Qian, CC Loy**, "The devil of face recognition is in the noise", *Proceedings of the European Conference on Computer Vision (ECCV)*, 2018 (cited by 231).
+5. **W Wu, Y Zhang, C Li, C Qian, CC Loy**, "Reenactgan: Learning to reenact faces via boundary transfer", *Proceedings of the European conference on computer vision (ECCV)*, 2018 (cited by 223).
+6. **S Zhu, C Li, CC Loy, X Tang**, "Unconstrained face alignment via cascaded compositional learning", *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016 (cited by 208).
+7. **J Wu, K Long, F Wang, C Qian, C Li, Z Lin, H Zha**, "Deep comprehensive correlation mining for image clustering", *Proceedings of the IEEE/CVF international conference on computer vision (ICCV)*, 2019 (cited by 205).
+8. **K Cao, Y Rong, C Li, X Tang, CC Loy**, "Pose-robust face recognition via deep residual equivariant mapping", *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018 (cited by 174).
+9. **W Wu, K Cao, C Li, C Qian, CC Loy**, "Transgaga: Geometry-aware unsupervised image-to-image translation", *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR)*, 2019 (cited by 127).
+10. **Y Zhang, L Liu, C Li**, "Quantifying facial age by posterior of age comparisons", *arXiv preprint arXiv:1708.09687*, 2017 (cited by 98).
+11. **C Li, KM Kitani**, "Model recommendation with virtual probes for egocentric hand detection", *Proceedings of the IEEE International Conference on Computer Vision (ICCV)*, 2013 (cited by 87).
+12. **Y Rong, Z Liu, C Li, K Cao, CC Loy**, "Delving deep into hybrid annotations for 3d human recovery in the wild", *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2019 (cited by 69).
+13. **Y Zhang, S Zhang, Y He, C Li, CC Loy, Z Liu**, "One-shot face reenactment", *arXiv preprint arXiv:1908.03251*, 2019 (cited by 57).
+14. **W Liu, J Chen, C Li, C Qian, X Chu, X Hu**, "A cascaded inception of inception network with attention modulated feature fusion for human pose estimation", *Proceedings of the AAAI Conference on Artificial Intelligence*, 2018 (cited by 45).
+15. **ZW Wang, SC Jiang, GL Yuan, T Wu, C Li, C Qian, C Jin, C Yu, WJ Hua**, "Strain effect on the orientation-dependent harmonic spectrum of monolayer aluminum nitride", *Science China Physics, Mechanics & Astronomy*, 2020 (cited by 40).
+
+17. **Y He, K Cao, C Li, C Loy**, "Merge or not? learning to group faces via imitation learning", *Proceedings of the AAAI Conference on Artificial Intelligence*, 2018 (cited by 24).
+
+19. **W Wu, K Cao, C Li, C Qian, CC Loy**, "Disentangling content and style via unsupervised geometry distillation", *arXiv preprint arXiv:1905.04538*, 2019 (cited by 18).
+20. **S Zhu, C Li, CC Loy, X Tang**, "Towards arbitrary-view face alignment by recommendation trees", *arXiv preprint arXiv:1511.06627*, 2015 (cited by 10).
+
+希望这有帮助！如果你有任何问题，请告诉我。
 
 ## Experience
 - **Co-founder, Lead Researcher (2013-present)**
