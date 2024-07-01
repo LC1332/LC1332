@@ -56,6 +56,8 @@ ChatHaruhi是个有趣的尝试，这里面的作者除了我和冷子昂以外�
 
 - Xintao Wang, Yunze Xiao, Jen-tse Huang, Siyu Yuan, Rui Xu, Haoran Guo, Quan Tu, Yaying Fei, Ziang Leng, Wei Wang, Jiangjie Chen, **Cheng Li**, Yanghua Xiao, "Does role-playing chatbots capture the character personalities? assessing personality traits for role-playing chatbots", *arXiv preprint arXiv:2310.17976*, 2023 (cited by 20).
 
+---
+
 ### Face Grouping and Face Data Clean
 
 在2016年之前，我们尝试了很多数据标注的不同方法。同时，我们还设计了一种强化学习/Meta-learning的方法，去学习聚类的规则进行人脸聚类。相应的算法改进后应用于很多国内手机的相册应用中。
@@ -72,6 +74,8 @@ Yunxuan Zhang, Li Liu, **Cheng Li**, C Loy "Quantifying facial age by posterior 
 
 这篇是我们用多次比较去标年龄的方法，比较标注法在颜值、年龄等很多数据上都有实践。
 
+---
+
 ### Ego-centric Hand Detection
 
 Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
@@ -82,12 +86,17 @@ Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
 
 - **Cheng Li**, KM Kitani**, "Model recommendation with virtual probes for egocentric hand detection", *Proceedings of the IEEE International Conference on Computer Vision (ICCV)*, 2013 (cited by 87).
 
+---
 
 ### Face Reenactment
 
-- Yunxuan Zhang, S Zhang, Y He, **Cheng Li**, CC Loy, Z Liu, "One-shot face reenactment", *arXiv preprint arXiv:1908.03251*, 2019 (cited by 57).
+<img src="images/reenact_face.jpg" alt="CVPR2023" height="300">
 
+- W Wu, Y Zhang, **Cheng Li**, C Qian, CC Loy, "Reenactgan: Learning to reenact faces via boundary transfer", *Proceedings of the European conference on computer vision (ECCV)*, 2018 (cited by 223).
 
+- Yunxuan Zhang, S Zhang, Y He, **Cheng Li**, CC Loy, Z Liu, "One-shot face reenactment", *arXiv preprint arXiv:1908.03251*, BMVC 2019 (cited by 57).
+
+- **W Wu, K Cao, C Li, C Qian, CC Loy**, "Disentangling content and style via unsupervised geometry distillation", *arXiv preprint arXiv:1905.04538*, ICLR 2019 (cited by 18).
 
 
 ## Publications
@@ -97,7 +106,7 @@ Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
 2. **S Zhu, C Li, C Change Loy, X Tang**, "Face alignment by coarse-to-fine shape searching", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2015 (cited by 651).
 3. 
 4. 
-5. **W Wu, Y Zhang, C Li, C Qian, CC Loy**, "Reenactgan: Learning to reenact faces via boundary transfer", *Proceedings of the European conference on computer vision (ECCV)*, 2018 (cited by 223).
+5. 
 6. **S Zhu, C Li, CC Loy, X Tang**, "Unconstrained face alignment via cascaded compositional learning", *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016 (cited by 208).
 7. **J Wu, K Long, F Wang, C Qian, C Li, Z Lin, H Zha**, "Deep comprehensive correlation mining for image clustering", *Proceedings of the IEEE/CVF international conference on computer vision (ICCV)*, 2019 (cited by 205).
 8. **K Cao, Y Rong, C Li, X Tang, CC Loy**, "Pose-robust face recognition via deep residual equivariant mapping", *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018 (cited by 174).
@@ -111,7 +120,7 @@ Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
 
 
 
-19. **W Wu, K Cao, C Li, C Qian, CC Loy**, "Disentangling content and style via unsupervised geometry distillation", *arXiv preprint arXiv:1905.04538*, 2019 (cited by 18).
+19. 
 20. **S Zhu, C Li, CC Loy, X Tang**, "Towards arbitrary-view face alignment by recommendation trees", *arXiv preprint arXiv:1511.06627*, 2015 (cited by 10).
 
 希望这有帮助！如果你有任何问题，请告诉我。
