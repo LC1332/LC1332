@@ -90,6 +90,8 @@ Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
 
 ### Face Reenactment
 
+这个是我们看到有人用CycleGAN做Face Reenactment之后，立刻做的一个改进工作，当然现在在diffusion时代换脸有更多开源的更好用的工具了。
+
 <img src="images/reenact_face.jpg" alt="CVPR2023" height="300">
 
 - W Wu, Y Zhang, **Cheng Li**, C Qian, CC Loy, "Reenactgan: Learning to reenact faces via boundary transfer", *Proceedings of the European conference on computer vision (ECCV)*, 2018 (cited by 223).
@@ -98,32 +100,30 @@ Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
 
 - **W Wu, K Cao, C Li, C Qian, CC Loy**, "Disentangling content and style via unsupervised geometry distillation", *arXiv preprint arXiv:1905.04538*, ICLR 2019 (cited by 18).
 
-
-## Publications
-
-1. **F Wang, M Jiang, C Qian, S Yang, C Li, H Zhang, X Wang, X Tang**, "Residual attention network for image classification", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2017 (cited by 4228).
-
-2. **S Zhu, C Li, C Change Loy, X Tang**, "Face alignment by coarse-to-fine shape searching", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2015 (cited by 651).
-3. 
-4. 
-5. 
-6. **S Zhu, C Li, CC Loy, X Tang**, "Unconstrained face alignment via cascaded compositional learning", *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016 (cited by 208).
-7. **J Wu, K Long, F Wang, C Qian, C Li, Z Lin, H Zha**, "Deep comprehensive correlation mining for image clustering", *Proceedings of the IEEE/CVF international conference on computer vision (ICCV)*, 2019 (cited by 205).
-8. **K Cao, Y Rong, C Li, X Tang, CC Loy**, "Pose-robust face recognition via deep residual equivariant mapping", *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018 (cited by 174).
 9. **W Wu, K Cao, C Li, C Qian, CC Loy**, "Transgaga: Geometry-aware unsupervised image-to-image translation", *Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR)*, 2019 (cited by 127).
 
 
-12. **Y Rong, Z Liu, C Li, K Cao, CC Loy**, "Delving deep into hybrid annotations for 3d human recovery in the wild", *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2019 (cited by 69).
+### Network Architecture
 
-14. **W Liu, J Chen, C Li, C Qian, X Chu, X Hu**, "A cascaded inception of inception network with attention modulated feature fusion for human pose estimation", *Proceedings of the AAAI Conference on Artificial Intelligence*, 2018 (cited by 45).
-15. **ZW Wang, SC Jiang, GL Yuan, T Wu, C Li, C Qian, C Jin, C Yu, WJ Hua**, "Strain effect on the orientation-dependent harmonic spectrum of monolayer aluminum nitride", *Science China Physics, Mechanics & Astronomy*, 2020 (cited by 40).
+- **F Wang, M Jiang, C Qian, S Yang, C Li, H Zhang, X Wang, X Tang**, "Residual attention network for image classification", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2017 (cited by 4228).
+
+- **Y Rong, Z Liu, C Li, K Cao, CC Loy**, "Delving deep into hybrid annotations for 3d human recovery in the wild", *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*, 2019 (cited by 69).
+
+- 14. **W Liu, J Chen, C Li, C Qian, X Chu, X Hu**, "A cascaded inception of inception network with attention modulated feature fusion for human pose estimation", *Proceedings of the AAAI Conference on Artificial Intelligence*, 2018 (cited by 45).
 
 
+### Face Alignment
 
-19. 
-20. **S Zhu, C Li, CC Loy, X Tang**, "Towards arbitrary-view face alignment by recommendation trees", *arXiv preprint arXiv:1511.06627*, 2015 (cited by 10).
+- **S Zhu, C Li, C Change Loy, X Tang**, "Face alignment by coarse-to-fine shape searching", *Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)*, 2015 (cited by 651).
 
-希望这有帮助！如果你有任何问题，请告诉我。
+- **S Zhu, C Li, CC Loy, X Tang**, "Unconstrained face alignment via cascaded compositional learning", *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2016 (cited by 208).
+
+- **S Zhu, C Li, CC Loy, X Tang**, "Towards arbitrary-view face alignment by recommendation trees", *arXiv preprint arXiv:1511.06627*, 2015 (cited by 10).
+
+
+### Face Recognition
+
+- **K Cao, Y Rong, C Li, X Tang, CC Loy**, "Pose-robust face recognition via deep residual equivariant mapping", *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2018 (cited by 174).
 
 ## Experience
 
