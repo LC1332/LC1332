@@ -192,4 +192,3 @@ Hand Detection是我先后去CMU时候Kris Kitani指导我做的研究。
 
 ## Links
 - [Google Scholar](https://scholar.google.com.hk/citations?user=F5rVlz0AAAAJ)
-- [arXiv](http://arxiv.org/abs/arxiv)
